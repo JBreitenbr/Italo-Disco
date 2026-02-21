@@ -344,7 +344,7 @@ section {
    
    button {
       height: 28px;
-      font-size:0.84rem;
+      font-size:0.78rem;
    }
    .track-head, .track-body {
       font-size:0.88rem;
@@ -369,7 +369,7 @@ section {
    }
    button {
       height: 20px;
-      font-size:0.76rem;
+      font-size:0.74rem;
    }
    .track-head ,.track-body {
       font-size:0.83rem;
