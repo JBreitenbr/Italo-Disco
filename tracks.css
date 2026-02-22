@@ -247,9 +247,13 @@ section {
 }
 
 .cyber {
-   background: radial-gradient(circle at 55% 42%, rgb(45,205,25) 0%, transparent 40%),
+   /*background: radial-gradient(circle at 55% 42%, rgb(45,205,25) 0%, transparent 40%),
    linear-gradient(65deg, rgb(35, 113, 56) 0%, rgb(13, 149,10) 61%, rgb(14, 176,109) 100%); font-family: Electrolize;
-   color:white;
+   color:white;*/
+   font-family: Electrolize;
+   background: radial-gradient(circle at 60% 70%, #333 0%, transparent 35%),
+   linear-gradient(155deg, rgba(11,11,11,0.88) 0%, rgba(15,15,15,0.95) 45%, rgb(8,8,8,0.88) 100%);
+   color:rgb(0,255,43);
 }
 
 @-webkit-keyframes rotateDiscoBall {
